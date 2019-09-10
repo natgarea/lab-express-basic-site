@@ -1,0 +1,17 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #99e4ed;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-transform: uppercase;
+}
